@@ -16,3 +16,10 @@ new_datameta=data.drop_duplicates()
 print(data.shape,new_datameta.shape)
 
 print("=====--=====")
+
+b='''hello paresh
+how are you today
+hope you are doing well!!
+'''
+
+print(b)
